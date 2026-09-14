@@ -18,7 +18,7 @@
 
 <p align="center">
   <b>Ingeniero de Sistemas especializado en el ecosistema Java (Spring, Quarkus) y el diseño de APIs corporativas.</b><br>
-  Poseo sólida experiencia en el desarrollo y mantenimiento de soluciones seguras, escalables y de alto rendimiento. Apasionado por el diseño de arquitecturas robustas (Patrón Hexagonal, SOLID), bases de datos complejas (PostgreSQL, Oracle), y el desarrollo Full-Stack interactivo con Angular. También me dedico a la docencia técnica, aportando valor mediante la enseñanza y la mentoría.
+  Poseo sólida experiencia en el desarrollo y mantenimiento de soluciones seguras, escalables y de alto rendimiento. Apasionado por el diseño de arquitecturas robustas (Patrón Hexagonal, SOLID), bases de datos complejas (PostgreSQL, Oracle), y el desarrollo Full-Stack interactivo con Angular.
 </p>
 
 ---
